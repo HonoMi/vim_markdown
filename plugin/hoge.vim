@@ -1,1 +1,0 @@
-echo "plugin/hoge.vim"
