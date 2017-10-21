@@ -1,15 +1,8 @@
-# vim_task
-Mark the line with "[!]"(todo) or "[done]"(done).  
-Only lines which starts with "-" or "*"(i.e. the list of markdown) are the targets.  
-Reference: http://kannokanno.hatenablog.com/entry/20120403/1333462565.
+# vim_markdown
+Utilities for writing markdown.
 
 ## how to use
-```
-    :ToDo
-```
-```
-    :Reset
-```
-```
-    :Done
-```
+- :AddSpaces
+    * Add 2-spaces (i.e. the newline of markdown) at the end of each lines.
+- :RemoveSpaces
+    * Remove the spaces at the end of each line.
