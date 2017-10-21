@@ -2,12 +2,12 @@
 Utilities for writing markdown.
 
 ## how to use
+Adds 2-spaces (i.e. the newline of markdown) at the end of each lines.
 ``` vim
 :AddSpaces
 ```
-Adds 2-spaces (i.e. the newline of markdown) at the end of each lines.
 
+Removes the spaces at the end of each line.
 ``` vim
 :RemoveSpaces
 ```
-Removes the spaces at the end of each line.
